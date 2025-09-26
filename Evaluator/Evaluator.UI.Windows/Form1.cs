@@ -6,5 +6,10 @@ namespace Evaluator.UI.Windows
         {
             InitializeComponent();
         }
+
+        private void button19_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
